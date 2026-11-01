@@ -1,5 +1,5 @@
 # Mohamed Medhat
-### Senior Software Engineer Â· Backend & Distributed Systems
+### Senior Software Engineer · Backend & Distributed Systems
 
 Senior Software Engineer with 12+ years building high-performance APIs, scalable SaaS platforms, and distributed systems using Node.js, NestJS, TypeScript, and Laravel. Deep focus on core backend fundamentals: clean database modeling, query optimization, Redis caching strategies, asynchronous queues, and idempotent operations. Proven track record improving performance on platforms serving 1M+ active users, cutting API latency by 60%, and maintaining 90%+ test coverage. 8+ years working fully remote with international teams across KSA, UAE, and the US.
 
@@ -17,5 +17,3 @@ Portfolio: [m-medhat-dev.github.io](https://m-medhat-dev.github.io) | Contact: [
 ### Featured Open Source & Architecture
 
 - [real-estate-agent](https://github.com/m-medhat-dev/real-estate-agent): Production-grade bilingual AI assistant for property discovery and booking using NestJS, LangGraph.js, pgvector RAG, and automated CI evals.
-- [Order-and-Payment-Management-API](https://github.com/m-medhat-dev/Order-and-Payment-Management-API): Production-grade RESTful API with double-entry ledger, payment gateway integration, and automated test suite.
-- [mini-wallet](https://github.com/m-medhat-dev/mini-wallet): Financial ledger and wallet API implementing double-entry bookkeeping and balance audit trails.
