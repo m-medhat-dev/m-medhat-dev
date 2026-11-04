@@ -1,4 +1,4 @@
-﻿# Mohamed Medhat
+# Mohamed Medhat
 ### Senior Software Engineer · Node.js · NestJS · TypeScript · Next.js · Laravel | AI & LLM Integrations
 
 Senior Software Engineer with 12+ years designing and scaling high-throughput backend architectures, distributed APIs, and multi-tenant SaaS platforms using **Node.js, NestJS, TypeScript, Next.js, React, Prisma, and Laravel**. Deep focus on core backend engineering: relational data modeling, PostgreSQL/Prisma query optimization, `pg-boss` and Redis background queues, WebSockets/MQTT real-time pipelines, and strict database-per-tenant isolation.
